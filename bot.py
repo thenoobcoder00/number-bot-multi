@@ -1453,8 +1453,8 @@ def render_admin_developer(chat_id, message_id):
         "╔═══════════╗\n"
         f"      {get_pemoji('dxa', '😒')} <b>DEVELOPER</b> {get_pemoji('dxa', '😒')}\n"
         "╚═══════════╝\n"
-        f"{get_pemoji('user', '👤')} ➤ 𝐍𝐚𝐦𝐞 : <a href='https://t.me/SH_Official_Admin'>𝗔𝗟𝗜𝗙 𝗦𝗛𝗘𝗜𝗞𝗛</a> {get_pemoji('done', '✅')}\n\n"
-        f"{get_pemoji('user', '👤')} ➤ 𝐍𝐢𝐜𝐤𝐍𝐚𝐦𝐞 : Asik\n\n"
+        f"{get_pemoji('user', '👤')} ➤ 𝐍𝐚𝐦𝐞 : <a href='https://noobxvau'>NOOBXVAU</a> {get_pemoji('done', '✅')}\n\n"
+        f"{get_pemoji('user', '👤')} ➤ 𝐍𝐢𝐜𝐤𝐍𝐚𝐦𝐞 : noob\n\n"
         "📍 ➤ 𝐂𝐨𝐮𝐧𝐭𝐫𝐲 : Bangladesh\n\n"
         f"{get_pemoji('world', '🌐')} ➤ 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam\n\n"
         "🔹 ➤ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : বাংলা | English | Hindi\n\n"
@@ -3126,7 +3126,7 @@ def handle_message(msg):
                 f"━━━━━━━━━━━━\n"
                 f"{get_pemoji('gem', '💎')} <b>Amount:</b> {amount} ৳\n"
                 f"{get_pemoji('phone', '📱')} <b>Number:</b> <code>{number}</code>\n"
-                f"<i>It will be processed soon by the DXA admins.</i>"
+                f"<i>It will be processed soon by the NOOBXVAU.</i>"
             )
             
             cfg = admin_db.get("dxa_config", {})
